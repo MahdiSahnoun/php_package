@@ -1,0 +1,19 @@
+{
+    "name": "piximind/princo",
+    "description": "verification crédits",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Piximind\\Princo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mahdi",
+            "email": "mahdisahnoun31@gmzil.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
